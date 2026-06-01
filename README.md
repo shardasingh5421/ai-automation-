@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory:
 
 ```env
-OPENAI_API_KEY=your_key_here
+ANTIGRAVITY_API_KEY=your_key_here
 ```
 
 ## Run
